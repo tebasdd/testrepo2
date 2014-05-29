@@ -8,3 +8,5 @@ xxyyzz
 http://www.spiegel.de/
 
 
+git@github.com:tebasdd/testrepo2.git
+

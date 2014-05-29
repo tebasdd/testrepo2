@@ -1,12 +1,4 @@
-xxyyzz
+http://www.heise.de/newsticker/meldung/Kali-Linux-Pentesting-Stick-mit-Verschluesselung-und-Notfallknopf-2210716.html
 
-http://www.spiegel.de/
-
-
-xxyyzz
-
-http://www.spiegel.de/
-
-
-git@github.com:tebasdd/testrepo2.git
+http://www.spiegel.de/politik/deutschland/bundespraesident-gauck-beklagt-gleichgueltigkeit-a-972401.html
 

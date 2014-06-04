@@ -2,3 +2,7 @@
 https://translate.googleusercontent.com/translate_c?depth=1&nv=1&rurl=translate.google.de&sl=auto&tl=de&u=http://news.softodrom.ru/ap/b19702.shtml&usg=ALkJrhi6uHq6YIJhUP_NwuQ5YSUgLSs7oQ
 
 http://www.heise.de/newsticker/meldung/Lehrerverband-erzuernt-ueber-Porno-Links-in-Wikipedia-2214124.html
+
+
+http://yznotes.com/postgres-upgrade-from-9-1-to-9-3-and-post-upgrade-configs-draft-notes/
+

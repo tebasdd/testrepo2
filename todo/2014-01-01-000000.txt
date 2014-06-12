@@ -22,7 +22,11 @@ http://www.heise.de/newsticker/meldung/Linux-Spezialisten-gesucht-auch-in-Europa
 http://www.spiegel.de/schulspiegel/zwoelf-staemme-sekte-veroeffentlicht-videos-fotos-briefe-a-965821.html
 
 
+
 http://www.postgresql.org/message-id/4C1A5B81.8050908@agliodbs.com
+
+http://www.pgcon.org/2010/schedule/events/219.en.html
+
 
 http://yznotes.com/postgres-upgrade-from-9-1-to-9-3-and-post-upgrade-configs-draft-notes/
 

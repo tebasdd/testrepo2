@@ -8,7 +8,7 @@ http://www.spiegel.de/politik/ausland/drohnen-experten-warnen-us-regierung-vor-r
 
 https://www.securelist.com/en/blog/208214339/Microsoft_seizes_22_NO_IP_domains_disrupts_cybercriminal_and_nation_state_APT_malware_operations
 
-
+http://www.heise.de/security/artikel/Schnellstart-mit-Kali-Linux-2209798.html
 
 
 

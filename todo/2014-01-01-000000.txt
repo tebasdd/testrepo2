@@ -1,6 +1,4 @@
 
-
-
 http://www.spiegel.de/wissenschaft/mensch/crystal-meth-laut-weltdrogenbericht-steigt-zahl-der-drogenlabore-a-977606.html
 
 http://www.spiegel.de/wissenschaft/weltall/schwarze-loecher-drei-in-einer-galaxie-a-977639.html
@@ -12,6 +10,8 @@ http://www.spiegel.de/wirtschaft/soziales/gentechnik-lobbystrategie-von-europabi
 http://www.heise.de/newsticker/meldung/Entwicklerwerkzeuge-fuer-Forscher-unter-dem-Dach-von-Eclipse-2237053.html
 
 
+
+http://www.heise.de/newsticker/meldung/FPGA-skaliert-JPEG-Bilder-im-Rechenzentrum-2262070.html
 
 
 http://www.spiegel.de/video/netzvideo-lamborghini-faehrt-zu-schnell-und-baut-unfall-video-1508707.html

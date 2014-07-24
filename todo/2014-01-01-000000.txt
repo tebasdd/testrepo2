@@ -11,17 +11,8 @@ http://www.heise.de/newsticker/meldung/Entwicklerwerkzeuge-fuer-Forscher-unter-d
 
 
 
-http://www.heise.de/newsticker/meldung/FPGA-skaliert-JPEG-Bilder-im-Rechenzentrum-2262070.html
 
-
-http://www.spiegel.de/video/netzvideo-lamborghini-faehrt-zu-schnell-und-baut-unfall-video-1508707.html
-
-http://www.spiegel.de/video/moskau-autofahrer-ueberfaehrt-mann-und-dashcam-filmt-ihn-video-1508512.html
-
-http://www.spiegel.de/video/weisser-hai-stirbt-am-strand-vor-australien-video-1508715.html
-
-
-http://www.at.freebsd.org/doc/de/articles/explaining-bsd/comparing-bsd-and-linux.html
+http://www.heise.de/tp/artikel/42/42341/1.html
 
 
 

@@ -16,6 +16,13 @@ http://www.heise.de/tp/artikel/42/42341/1.html
 
 
 
+https://play.google.com/store/apps/details?id=com.nll.vpnshortcut
+
+https://play.google.com/store/apps/details?id=com.sika524.android.quickshortcut
+
+
+
+
 http://www.postgresql.org/message-id/4C1A5B81.8050908@agliodbs.com
 http://www.pgcon.org/2010/schedule/events/219.en.html
 http://yznotes.com/postgres-upgrade-from-9-1-to-9-3-and-post-upgrade-configs-draft-notes/
